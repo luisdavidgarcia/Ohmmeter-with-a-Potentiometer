@@ -1,6 +1,6 @@
 <h1>Ohmmeter-with-a-Potentiometer</h1>
 
-<img src="">
+<img src="OhmPotent1.png">
 
 <h2>Tools</h2>
 <ul>
