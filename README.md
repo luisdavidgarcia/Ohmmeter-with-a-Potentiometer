@@ -9,9 +9,9 @@
   <li>Male to Male Wires</li>
   <li>LED</li>
   <li>LM358 op-amp</li>
-  <li>1 470 <span>&#8486;</span> resistor</li>
-  <li>1 10 k<span>&#8486;</span> resistor</li>
-  <li>1 2 k<span>&#8486;</span> resistor</li>
+  <li>1 820 <span>&#8486;</span> resistor</li>
+  <li>Resistor you wish to Measure</li>
+  <li>Potentiometer</li>
 </ul>  
 
 <h2>Motivation for the Project</h2>
